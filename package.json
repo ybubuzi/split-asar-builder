@@ -21,6 +21,22 @@
     "dist",
     "node.d.ts"
   ],
+  "author": "bubuzi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybubuzi/split-asar-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ybubuzi/split-asar-builder/issues"
+  },
+  "homepage": "https://github.com/ybubuzi/split-asar-builder",
+  "keywords": [
+    "electron",
+    "vite",
+    "cli",
+    "plugin"
+  ],
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint --ext .ts src/**",
